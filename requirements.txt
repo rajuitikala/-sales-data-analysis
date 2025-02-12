@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+sqlalchemy
+streamlit
+psycopg2  # If using PostgreSQL
+mysql-connector-python  # If using MySQL
